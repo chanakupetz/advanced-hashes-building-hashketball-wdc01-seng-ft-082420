@@ -1,7 +1,7 @@
 def game_hash
 {:home => {
   :team_name => "Brooklyn Nests",
-  :colors => ["Black", "white"], 
+  :colors => ["Black", "white"],
   :players => [{
     :player_name => "Alan Anderson",
     :number => 0,
@@ -14,9 +14,9 @@ def game_hash
     :slam_dunks => 1}, {}]
 },
  :away => {
-   :team_name => " "
- :colors => [" ", " "]
- :players => [
+   :team_name => " ",
+   :colors => [" ", " "],
+   :players => [
     :player_name
     :number
     :shoe

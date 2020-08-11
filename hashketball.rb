@@ -1,7 +1,7 @@
 def game_hash
 {:home => {
-  :team_name => "Brooklyn Nests"
-  :colors => ["Black", "white"]
+  :team_name => "Brooklyn Nests",
+  :colors => ["Black", "white"], 
   :players => [{
     :player_name => "Alan Anderson",
     :number => 0,
